@@ -4,7 +4,8 @@ bin:x:2:
 sys:x:3:
 adm:x:4:syslog,ubuntu
 tty:x:5:
-disk:x:6:
+ddddisk:x:6:
+newdata
 lp:x:7:
 mail:x:8:
 news:x:9:
